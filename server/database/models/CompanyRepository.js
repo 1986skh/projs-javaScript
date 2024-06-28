@@ -44,7 +44,7 @@ class CompanyRepository extends AbstractRepository {
   
     // Retourne la nouvelle entreprise
     return newCompany[0];
-  }
+    }
 }
 
 module.exports = CompanyRepository;
